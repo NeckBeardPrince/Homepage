@@ -41,19 +41,23 @@ list {
   width: 12em;
 }
 
+.nextgxdx {
+  background-color: #D07529;
+}
+
 .google {
   background-color: #cc241d;
 }
 
-.reddit {
+.code {
   background-color: #458588;
 }
 
-.programming {
+.news {
   background-color: #689d6a;
 }
 
-.gaming {
+.ops {
   background-color: #d65d0e;
 }
 
